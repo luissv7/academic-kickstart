@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Highlighted Accomplish&shy;ments"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "National Science Foundation"
+  organization_url = ""
+  title = "Graduate Research Fellowship"
+  date_start = "2013-06-01"
+  date_end = "2017-05-01"
+
+[[item]]
+  organization = "American Mathematical Society-Simons Foundation Travel Grant"
+  organization_url = ""
+  title = "Travel Grant"
+  url = "https://www.ams.org/programs/travel-grants"
+  date_start = "2019-06-01"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  [[item]]
+    organization = "Society for Industrial and Applied Mathematics"
+    organization_url = "www.siam.org"
+    title = "Science Policy Fellowship"
+    date_start = "2019-01-01"
+    description = ""
 
 +++
