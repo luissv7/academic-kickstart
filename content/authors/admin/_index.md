@@ -49,9 +49,9 @@ social:
   link: https://github.com/luissv7
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -63,6 +63,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Research Assistant Professor in the Department of Medicine at The University of Florida. I am an Applied Mathematician with scientific experience broadly described as being in the area of computational biology.  I use techniques of discrete mathematics, dynamical systems, network theory, and data science to create models of disease phenomena (e.g. cancer growth, psychiatric disorders, infectious diseases). My current research interests and expertise facilitate truly interdisciplinary collaborations spanning a number of subject areas including mathematics, psychiatry, and biology.
-
-I was born in Venezuela and moved to the United States when I was 12 years old.
+I am a Research Assistant Professor in the Department of Medicine at The University of Florida. I am a Venezuelan-American Applied Mathematician with scientific experience broadly described as being in the area of computational biology.  I use techniques of discrete mathematics, dynamical systems, network theory, and data science to create models of disease phenomena (e.g. cancer growth, psychiatric disorders, infectious diseases). My current research interests and expertise facilitate truly interdisciplinary collaborations spanning a number of subject areas including mathematics, psychiatry, and biology.
